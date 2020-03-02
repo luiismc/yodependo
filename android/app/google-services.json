@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986437813879",
+    "firebase_url": "https://yosoyadicto-35afd.firebaseio.com",
+    "project_id": "yosoyadicto-35afd",
+    "storage_bucket": "yosoyadicto-35afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986437813879:android:92b54b6ce48857da8f2872",
+        "android_client_info": {
+          "package_name": "com.rn_oreo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986437813879-9pd8rc2h6sjgsjgp8gg8bg5fgq0t4nnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPDBkTUDqrF2TPirnsuDt4ecyToLU_LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986437813879-9pd8rc2h6sjgsjgp8gg8bg5fgq0t4nnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
