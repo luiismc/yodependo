@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">YosoyAdicto</string>
-    <string name="facebook_app_id">1085862555099792</string>
+    <string name="app_name">YoDependo</string>
+    <string name="facebook_app_id">207211970637670</string>
+    <string name="fb_login_protocol_scheme">207211970637670</string>
 </resources>

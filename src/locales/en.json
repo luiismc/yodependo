@@ -170,12 +170,14 @@
     "text_shopping": "Continue Shopping"
   },
   "getting": {
-    "text_title_1": "Shopping Smart",
-    "text_title_2": "Focus UX",
-    "text_title_3": "Creative Concept",
-    "text_subtitle_1": "Welcome to OREO Store",
-    "text_subtitle_2": "Personalization of User Experience",
-    "text_subtitle_3": "Discovering new horizons"
+    "text_title_1": "···",
+    "text_title_2": "···",
+    "text_title_3": "···",
+    "text_title_4": "¡Bienvenido!",
+    "text_subtitle_1": " ",
+    "text_subtitle_2": " ",
+    "text_subtitle_3": " ",
+    "text_subtitle_4": "···"
   },
   "profile": {
     "text_hello": "Hello, {{name}}",

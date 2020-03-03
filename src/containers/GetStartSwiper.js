@@ -25,7 +25,7 @@ const data = [
   {
     image: require('src/assets/images/getting-start/get-start-1.png'),
     title: {
-      en: 'Bienvenido YoSoyAdicto',
+      en: '',
       ar: 'التسوق الذكي',
     },
     subtitle: {
@@ -36,7 +36,7 @@ const data = [
   {
     image: require('src/assets/images/getting-start/get-start-2.png'),
     title: {
-      en: 'Conócenos',
+      en: '',
       ar: 'التركيز UX',
     },
     subtitle: {
@@ -48,6 +48,17 @@ const data = [
     image: require('src/assets/images/getting-start/get-start-3.png'),
     title: {
       en: 'Construyete',
+      ar: 'مفهوم الإبداعي',
+    },
+    subtitle: {
+      en: '... ',
+      ar: 'اكتشاف آفاق جديدة',
+    },
+  },
+  {
+    image: require('src/assets/images/getting-start/get4.png'),
+    title: {
+      en: '',
       ar: 'مفهوم الإبداعي',
     },
     subtitle: {
@@ -83,6 +94,11 @@ class GetStartSwiper extends React.Component {
         image: require('src/assets/images/getting-start/get-start-3.png'),
         title: t('getting:text_title_3'),
         subtitle: t('getting:text_subtitle_3'),
+      },
+      {
+        image: require('src/assets/images/getting-start/get4.png'),
+        title: t('getting:text_title_4'),
+        subtitle: t('getting:text_subtitle_4'),
       },
     ];
     return (
